@@ -24,3 +24,8 @@ regularization.
 Logistic regression had a time complexity of O(n) while the neural network had a significantly better time complexity
 of O(√h). This paper investigates the properties of both algorithms as well as establishes the inability of both 
 algorithms to identify characters to sufficiently high accuracies.
+
+
+For all the data, both raw and processed, as well as all other documents here is the link. The files are fairly large and did not fit on GitHub
+
+https://drive.google.com/drive/folders/1JOXEk2pxX9CoB0AVmuOTvcEy2aBJ4Dcz?usp=sharing
